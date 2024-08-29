@@ -1,0 +1,29 @@
+.bp{
+	padding-bottom: 150px;
+}
+.project{
+
+}
+.prjt_h2{
+	font-size: 30px;
+	padding: 10px;
+	background-color: darkgreen;
+	color: white;
+}
+.cunt{
+	font-size: 25px;
+	font-weight: 500;
+}
+.item_1, .item_3 {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  padding-top: 75px;
+  background: #ccc;
+  text-align: center;
+  color: #FFF;
+  font-size: 3em;
+}
+.item_3{
+	display: inline-block;
+}
